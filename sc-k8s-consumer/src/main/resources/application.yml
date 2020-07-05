@@ -1,0 +1,8 @@
+server:
+  port: 5678
+spring:
+  application:
+    name: sc-k8s-consumer
+feign:
+  hystrix:
+    enabled: true

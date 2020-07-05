@@ -1,0 +1,5 @@
+server:
+  port: 6789
+spring:
+  application:
+    name: sc-k8s-provider
